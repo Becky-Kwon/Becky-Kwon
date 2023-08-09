@@ -4,7 +4,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Becky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Becky-Kwon&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/Becky-Kwon/github-readme-stats)
 </div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -18,10 +18,9 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-
-
-
 </p>
+
+<h3 align="center">📞 Contact Me 📞</h3>
 
 
 <!--
