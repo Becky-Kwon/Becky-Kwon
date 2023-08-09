@@ -22,7 +22,7 @@
 
 <h3 align="center">📞 Contact Me 📞</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/becky-kwon-7467631a6"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/becky-kwon-7467631a6"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/becky-kwon-7467631a6"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/becky-kwon-7467631a6"></a>&nbsp
 
 <!--
 **Becky-Kwon/Becky-Kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
