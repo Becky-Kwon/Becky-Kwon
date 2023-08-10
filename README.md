@@ -4,7 +4,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-![Becky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Becky-Kwon&show_icons=true&theme=radical)
+![Becky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Becky-Kwon&show_icons=true&theme=buefy)
 </div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
