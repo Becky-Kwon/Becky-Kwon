@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi!%20I'm%20Becky!&fontSize=90&animation=fadeIn)
 
-
+<!--
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
 // ![Becky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Becky-Kwon&show_icons=true&theme=buefy)
 </div>
+--> 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
