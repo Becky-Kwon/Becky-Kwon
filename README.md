@@ -20,8 +20,10 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></a>
   <br>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/SPSS-DD0700?style=flat&logo=&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/SAS-1981D1?style=flat&logo=&logoColor=white"/></a>
   <br>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
