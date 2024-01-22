@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white"/></a> 
 </p>
 
-<h3 align="center">📞 Contact Me </h3>
+<h3 align="center">📞Contact Me </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/becky-kwon-7467631a6"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/becky-kwon-7467631a6"></a>&nbsp
 
